@@ -1,5 +1,6 @@
 # Conference-Events-Workshops
 
+## Amazon Machine Learning Conference 2022
 
 ## Pascale Fung: “Value Based NLP”
 
@@ -26,3 +27,6 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=lnGMNBKcO3Q
 " target="_blank"><img src="http://img.youtube.com/vi/lnGMNBKcO3Q/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+Reference: https://www.amazon.science/latest-news/amazons-annual-machine-learning-conference-focuses-on-community-and-connections
