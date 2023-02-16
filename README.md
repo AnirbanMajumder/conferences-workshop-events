@@ -34,3 +34,10 @@ Reference: https://www.amazon.science/latest-news/amazons-annual-machine-learnin
 
 ## Search Marketing Expo (SMX) West San Jose 2019
 
+Inline-style: 
+![alt text](https://github.com/AnirbanMajumder/Conference-Events-Workshops/blob/main/image001.JPG "Logo Title Text 1")
+
+![alt text](https://github.com/AnirbanMajumder/Conference-Events-Workshops/blob/main/image002.JPG "Logo Title Text 1")
+
+![alt text](https://github.com/AnirbanMajumder/Conference-Events-Workshops/blob/main/image003.JPG "Logo Title Text 1")
+
