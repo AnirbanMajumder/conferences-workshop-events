@@ -1,4 +1,4 @@
-# Conference-Events-Workshops
+# Conferences, Workshops and Events
 
 ## Amazon Machine Learning Conference 2022
 
